@@ -1,0 +1,86 @@
+// src/data/userDataMock.js
+
+const users = [
+  {
+    id: 1,
+    first_name: "Cosme",
+    last_name: "Alves",
+    email: "cosme.alves@gmail.com",
+    password: "password456",
+    token: "41345993-9c3c-4fc0-88dc-44f4020dd3fe",
+  },
+  {
+    id: 2,
+    first_name: "João",
+    last_name: "Silva",
+    email: "joao.silva@example.com",
+    password: "password456",
+    token: "955482f3-2535-4137-9101-2f074e7b6af8",
+  },
+  {
+    id: 3,
+    first_name: "Maria",
+    last_name: "Santos",
+    email: "maria.santos@example.com",
+    password: "password456",
+    token: "260ad27a-ed09-4041-90da-486eabc9204a",
+  },
+  {
+    id: 4,
+    first_name: "Pedro",
+    last_name: "Manuel",
+    email: "pedro.manuel@example.com",
+    password: "password456",
+    token: "8212e293-9fc8-4a56-9f0b-3ed0988f4bd6",
+  },
+  {
+    id: 5,
+    first_name: "Lucas",
+    last_name: "Silveira",
+    email: "lucas.silveira@example.com",
+    password: "password456",
+    token: "f3c643b8-b2d5-4ed8-81fa-b3f9e1b1c563",
+  },
+  {
+    id: 6,
+    first_name: "Davi",
+    last_name: "Golias",
+    email: "davi.golias@example.com",
+    password: "password456",
+    token: "3f33ee81-6b4e-407f-908e-6473950653fb",
+  },
+  {
+    id: 7,
+    first_name: "Ester",
+    last_name: "Hebreus",
+    email: "ester.hebreus@example.com",
+    password: "password456",
+    token: "5b574e60-4375-4c5c-a50e-818a4f612514",
+  },
+  {
+    id: 8,
+    first_name: "Isac",
+    last_name: "Rodrigues",
+    email: "isac.rodrigues@example.com",
+    password: "password456",
+    token: "f5371965-3d37-4762-b1b5-8a68fd9f913f",
+  },
+  {
+    id: 9,
+    first_name: "Matheus",
+    last_name: "Andrades",
+    email: "matheus.andrade@example.com",
+    password: "password456",
+    token: "9b885003-1fe1-4868-a9df-3e3a641cdd2e",
+  },
+  {
+    id: 10,
+    first_name: "Judas",
+    last_name: "Loureiro",
+    email: "judas.loreiro@example.com",
+    password: "password456",
+    token: "a252c9fa-3398-4064-b953-092547b2a449",
+  },
+];
+
+module.exports = users;
